@@ -1,0 +1,3 @@
+\beval\s*\(
+githubusercontent\.com
+base64_decode\s*\(

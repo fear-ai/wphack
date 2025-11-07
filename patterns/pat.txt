@@ -1,0 +1,22 @@
+# PCRE patterns (one per line)
+base64_decode\(
+gzinflate\(
+str_rot13\(
+eval\s*\(
+assert\s*\(
+preg_replace\s*\(.*/e
+create_function\s*\(
+shell_exec\s*\(
+`[^`]*`
+passthru\s*\(
+popen\s*\(
+proc_open\s*\(
+system\s*\(
+curl_exec\s*\(
+curl_init\s*\(
+allow_url_fopen\s*=\s*On
+fsockopen\s*\(
+openssl_decrypt\s*\(
+'\.pack\('
+raw\.githubusercontent\.com/.*/simplecmdandbackdoor
+@eval\(\$_SERVER\['HTTP_[A-Z0-9_]+'\]\)

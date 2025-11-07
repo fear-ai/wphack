@@ -1,0 +1,39 @@
+# Location-sensitive legitimate filenames
+# Updated: 2025-11-05T01:44:55.998769Z
+# One per line; '#' comments allowed.
+about.php
+about25.php
+adminer-4.php
+adminer.php
+backup.bak.php
+backup.php
+backup.zip.php
+blurbs.php
+class-wp-site-health-auto-updates.php
+class-wp-site-health.php
+class-wp-upgrader.php
+config.bak.php
+file.php
+file36.php
+file_manager.php
+file_upload.php
+filemanager.php
+files.php
+image.php
+info.php
+info2.php
+info3.php
+log.php
+logs.php
+notes.php
+phpinfo.php
+plugin.php
+post.php
+test.php
+theme.php
+tool.php
+tools.php
+upload.php
+upload_file.php
+uploader.php
+uploadify.php
