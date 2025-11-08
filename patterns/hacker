@@ -6,7 +6,6 @@ aa2.php
 aa21.php
 about.php
 about25.php
-admin.php
 adminer-4.php
 adminer.php
 adminfuns.php
@@ -30,7 +29,6 @@ class21.php
 cmd.php
 comfunctions.php
 e.php
-file.php
 file36.php
 file_manager.php
 file_upload.php
@@ -40,7 +38,6 @@ find_dm.php
 gifclass.php
 gifclassa.php
 gifclassb.php
-index.php
 index1.php
 index2.php
 info.php
@@ -58,15 +55,12 @@ r00t.php
 r57.php
 r57shell.php
 s.php
-shell.php
 simpleshell.php
 simpleshellusingbase64.php
 termps.php
 test.php
 thoms.php
 tool.php
-tools.php
-upload.php
 upload_file.php
 uploader.php
 uploadify.php

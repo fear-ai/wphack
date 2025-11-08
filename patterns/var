@@ -32,8 +32,11 @@ post.php
 test.php
 theme.php
 tool.php
-tools.php
-upload.php
 upload_file.php
 uploader.php
 uploadify.php
+upload.php
+index.php
+tools.php
+admin.php
+shell.php
